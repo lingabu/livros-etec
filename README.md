@@ -1,2 +1,2 @@
-# livros-etec
-Livros e apostilas ETEC (Vestibulinho) do Gabaru
+# Livros ETEC — Gabaru
+Livros e apostilas para o Vestibulinho ETEC.
